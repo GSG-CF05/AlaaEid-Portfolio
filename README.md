@@ -7,9 +7,9 @@
 [Alaa Eid](https://github.com/AlaaEid-1)
 
 ## Why did I create this website?
--This site was my first project in the Coding Foundations Course.
--To have a set of work on Github.
--Provide the website you created for interviews and work
+- This site was my first project in the Coding Foundations Course.
+- To have a set of work on Github.
+- Provide the website you created for interviews and work
 
 
 ## What is portfolio website?
