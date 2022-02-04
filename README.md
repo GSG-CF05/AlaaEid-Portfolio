@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Alaa, a computer Engineer & Web Developer <img width="40" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 
 ## You can check it out [ِAlaa]( https://gsg-cf05.github.io/AlaaEid-Portfolio/)
-
-
+ 
 ## Team Members:
 
 [Alaa Eid](https://github.com/AlaaEid-1)
