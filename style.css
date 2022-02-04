@@ -158,3 +158,56 @@ h4 {
     margin-bottom: 25px;
     text-transform: capitalize;
 }
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ff125d;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+}
+
+input[type=submit] {
+    background-color: #f9004d;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+label {
+    color: #f9004d;
+}
+
+input[type=submit]:hover {
+    background-color: #d80447;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 30px 30px 0px 30px;
+}
+
+footer {
+    position: relative;
+    background: #e7e6e6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 30px 0px 30px;
+}
+
+footer p {
+    color: #ff125d;
+    font-size: 17px;
+    width: 500px;
+    text-align: center;
+    line-height: 26px;
+}
