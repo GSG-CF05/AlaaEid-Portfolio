@@ -3,9 +3,9 @@
 ## You can check it out [ِAlaa]( https://gsg-cf05.github.io/AlaaEid-Portfolio/)
 
 
-## Team Members:-
+## Team Members:
 
-- [Alaa Eid](https://github.com/AlaaEid-1)
+[Alaa Eid](https://github.com/AlaaEid-1)
 
 ## Why did I create this website?
 -This site was my first project in the Coding Foundations Course.
