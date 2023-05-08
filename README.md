@@ -16,7 +16,7 @@
 ## What is portfolio website?
 <h3>This site contains three sections:</h3>
 - About Me.
-- Me Skills.
+- My Skills.
 - Contact Me.
 
 ## How did I create it?
